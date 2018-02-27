@@ -1,2 +1,8 @@
-# ottergram-HomeWork-2
-Home-Work-2 " Slider with navigation buttons"
+# ottergram-2
+HOME-WORK-2 ( CPSC-473 )
+Submitted by
+
+VANCHHIT KHARE
+Section-2
+Computer Science ( Grad Student )
+CSUF
